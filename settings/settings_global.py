@@ -78,6 +78,7 @@ INSTALLED_APPS = [
     'wger.core',
     'wger.mailer',
     'wger.exercises',
+    'wger.golf',
     'wger.gym',
     'wger.manager',
     'wger.nutrition',

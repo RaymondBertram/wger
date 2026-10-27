@@ -64,6 +64,8 @@ target/
 # External Libraries
 wger/core/static/yarn
 node_modules
+/wger/core/static/bootstrap-compiled.css
+/wger/core/static/bootstrap-compiled.css.map
 /.yarn/install-state.gz
 
 # Virtual envs
